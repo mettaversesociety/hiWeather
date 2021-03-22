@@ -9,7 +9,3 @@ updates:
     directory: "/" 
     schedule:
       interval: "daily"
-      commit_message:
-      prefix: "fix"
-      prefix_development: "chore"
-      include_scope: true
