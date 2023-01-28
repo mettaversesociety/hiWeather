@@ -32,7 +32,7 @@ export default {
   name: 'app',
   data () {
     return {
-      api_key: 'process.env.TOKEN',
+      api_key: 'process.env.WEATHER_APP_ANON_KEY',
       url_base: "https://api.openweathermap.org/data/2.5/",
       query: '',
       weather: {}
