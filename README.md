@@ -5,8 +5,7 @@ This app is simplistic approach to Show the Weather and was built using Vue.js! 
 ![Vue ShowTheWeather Application](https://i.ibb.co/4sPMDMd/hhw-weather-app.png)
 
 ## Follow me on: 
-[CodePen](https://codepen.io/techgirldiaries)
-[Twitter](https://twitter.com/techgirldiaries).
+[CodePen](https://codepen.io/techgirldiaries) and [Twitter](https://twitter.com/techgirldiaries)
 
 
 ## Project setup
