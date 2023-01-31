@@ -1,6 +1,13 @@
 # TGD Weather App
 
-This app is simplistic approach to Show the Weather and was built using Vue.js! It gets your current location and displays the weather for it. The background and icons change according to the weather at your location! Created by [Tech Girl Diaries](https://codepen.io/techgirldiaries) and you can find me on [Twitter](https://twitter.com/techgirldiaries).
+This app is simplistic approach to Show the Weather and was built using Vue.js! It gets your current location and displays the weather for it. The background and icons change according to the weather at your location! Created by [Tech Girl Diaries](https://techgirldiaries.github.io).
+
+![Vue ShowTheWeather Application](https://i.ibb.co/4sPMDMd/hhw-weather-app.png)
+
+## Follow me on: 
+[CodePen](https://codepen.io/techgirldiaries)
+[Twitter](https://twitter.com/techgirldiaries).
+
 
 ## Project setup
 
